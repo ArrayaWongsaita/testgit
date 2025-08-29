@@ -1,0 +1,5 @@
+test-ignore.txt
+!test-ignore.txt
+
+src/*
+!src/a.html
